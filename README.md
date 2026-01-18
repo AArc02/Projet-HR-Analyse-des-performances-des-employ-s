@@ -31,11 +31,28 @@ Ce projet vise à analyser la répartition des performances des employés, à id
   
 	•	Python
 	•	Pandas, NumPy
-	•	Matplotlib / Seaborn
+	•	Matplotlib / Seaborn<img width="1030" height="443" alt="stats_descrip" src="https://github.com/user-attachments/assets/da1ff487-e782-4409-9057-8959ed127c66" />
 	•	Google Colab
+
+## ✅ Résultats clés
+- Engagement globalement élevé
+- Présence de cas isolés de faible satisfaction
+- Corrélation positive entre engagement et satisfaction
+- Quelques outliers en termes d’absences et de retards
+
+## 📌 Recommandations
+- Accompagnement ciblé des employés à faible engagement
+- Valorisation des top performers
+- Actions préventives sur l’absentéisme
 
 📈 Résultats attendus
 
 	•	Vision claire de la répartition des performances
 	•	Identification des profils atypiques
 	•	Pistes d’actions : formation, management, répartition de la charge de travail
+	
+
+
+
+
+	
