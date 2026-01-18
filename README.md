@@ -16,6 +16,17 @@ Ce projet vise à analyser la répartition des performances des employés, à id
 	•	Détection des outliers
 	•	Visualisations : histogrammes, boxplots, graphiques comparatifs
 
+🔑  Variables clés du dataset :
+
+	•	PerformanceScore
+	•	EngagementSurvey
+	•	EmpSatisfaction
+	•	Absences
+	•	DaysLateLast30
+	•	SpecialProjectsCount
+	•	Department (pour analyse par groupe
+
+
   🛠️ Technologies utilisées
   
 	•	Python
