@@ -50,6 +50,11 @@ Ce projet vise à analyser la répartition des performances des employés, à id
 	•	Vision claire de la répartition des performances
 	•	Identification des profils atypiques
 	•	Pistes d’actions : formation, management, répartition de la charge de travail
+
+
+
+
+	
 	
 
 
