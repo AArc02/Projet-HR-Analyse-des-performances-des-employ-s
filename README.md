@@ -51,16 +51,9 @@ Ce projet vise à analyser la répartition des performances des employés, à id
 	•	Identification des profils atypiques
 	•	Pistes d’actions : formation, management, répartition de la charge de travail
 
-
-
-
-	
-	
-
-
 👤 **Auteur** : Arsène  
 
-📅 **Année** : 2024
+📅 **Année** : 2026
 
 
 	
